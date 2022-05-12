@@ -1,2 +1,2 @@
-# Question4
-B4programingtask Question4
+# Gnuplot グラフ
+[![](./sinplot.png)](./sinplot.png)
