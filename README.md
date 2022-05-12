@@ -1,2 +1,2 @@
 # Gnuplot グラフ
-[![](./sinplot.png)](./sinplot.png)
+[![](./imagesinplot.png)](./imagesinplot.png)
